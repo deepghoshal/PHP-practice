@@ -1,0 +1,7 @@
+<div class="buy">
+        <img src="Tooltip.png" height="100px" style="margin-left: -10px" />
+        <h3 class="main-h">Fleet</h3>
+        <p class="main-p">Next-generation IDE by JetBrains</p>
+        <p class="main-l"><a href="">Explore Fleet</a></p>
+        <div class="main-d">Download</div>
+      </div>
